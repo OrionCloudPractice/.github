@@ -15,15 +15,13 @@
 
 Create a PR for suggest a new Topic [new](#)   
 
-## Customers' Half Days
+## Inmersion Days 
 
-| Customer      | Speaker       |  Date         | Location | 
-| ------------- |:-------------:| -------------:|--------- |
-| Santander     | Antonnio      |  15-06-2022   | Orion    |
-| BCI           | Michel        |  22-06-2022   | Orion    |
-| CENABAST      | Alejandro     |  29-06-2022   | Orion    |
-
-Create a PR for request a Half Day [new](#)   
+| Customer      | Speaker       |  Date         | Location | Link de Registro |  
+| ------------- |:-------------:| -------------:|--------- | ---------- |
+| Santander     | Antonnio      |  15-06-2022   | Orion    | (Link)[#] |
+| BCI           | Michel        |  22-06-2022   | Orion    | (Link)[#] |
+| CENABAST      | Alejandro     |  29-06-2022   | Orion    | (Link)[#] |
 
 ## Competencies Achieved
 
