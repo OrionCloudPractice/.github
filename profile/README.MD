@@ -33,9 +33,7 @@ Create a PR for request a Half Day [new](#)
 ### > AWS Storage Competency
 ### > AWS Migration Competency
 
-1. Basic Underestaning of Amazon Certifications  
-1.  
-1.  
+1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
 1.  
 1.  
  
