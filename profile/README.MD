@@ -30,7 +30,7 @@ Create a PR for suggest a new Topic [new](#)
 ### > AWS Migration Competency
 
 1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
-1.  
+1. [serverless HOL](https://github.com/OrionCloudPractice/quickstart-trek10-serverless-enterprise-cicd)
 1.  
  
 ## Partner Delivery Programs Achieved
