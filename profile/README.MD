@@ -1,6 +1,18 @@
 # Cloud Organization Practice for Orion
 
 
+
+
+## Meetup Calendar 
+
+| Topic         | Speaker       | Date          | Location | 
+| ------------- |:-------------:| -------------:|--------- |
+| Networking    | Antonnio      |  15-06-2022   | Orion    |
+| Containers    | Michel        |  22-06-2022   | Orion    |
+| Migration     | Alejandro     |  29-06-2022   | Orion    |
+
+Create a PR for suggest a new Topic  
+
 ## Competencies Achieved
 
 
