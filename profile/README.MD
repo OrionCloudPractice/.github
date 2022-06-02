@@ -13,7 +13,17 @@
 | Containers    | Michel        |  22-06-2022   | Orion    |
 | Migration     | Alejandro     |  29-06-2022   | Orion    |
 
-Create a PR for suggest a new Topic  
+Create a PR for suggest a new Topic [new](#)   
+
+## Customers' Half Days
+
+| Customer      | Speaker       |  Date         | Location | 
+| ------------- |:-------------:| -------------:|--------- |
+| Santander     | Antonnio      |  15-06-2022   | Orion    |
+| BCI           | Michel        |  22-06-2022   | Orion    |
+| CENABAST      | Alejandro     |  29-06-2022   | Orion    |
+
+Create a PR for request a Half Day [new](#)   
 
 ## Competencies Achieved
 
