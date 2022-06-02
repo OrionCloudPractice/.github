@@ -23,19 +23,29 @@ Create a PR for suggest a new Topic [new](#)
 | Topic         | Michel        |  22-06-2022   | Orion    | [Link](#) |
 | Topic      | Alejandro     |  29-06-2022   | Orion    | [Link](#) |
 
+
 ## Competencies Achieved
 
-
-### > AWS Networking Competency
 ### > AWS Security Competency
-### > AWS Storage Competency
 ### > AWS Migration Competency
 
 1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
 1.  
 1.  
  
-### > AWS Migration and Modernization Competency
-### > AWS Data and Analytics Competency
-### > AWS Cloud Management Tools Competency
-### > AWS Containers Competency
+## Partner Delivery Programs Achieved
+
+1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
+1.  
+1.  
+
+### Database Migration Service
+1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
+1.  
+1.  
+
+
+### Web application Firewall
+1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
+1.  
+1.  
