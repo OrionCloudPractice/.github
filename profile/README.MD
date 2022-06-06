@@ -9,7 +9,7 @@
 
 | Topic         | Speaker       |  Date         | Location | 
 | ------------- |:-------------:| -------------:|--------- |
-| Networking    | Antonnio      |  15-06-2022   | Orion    |
+| Networking    | Antonio      |  15-06-2022   | Orion    |
 | Containers    | Michel        |  22-06-2022   | Orion    |
 | Migration     | Alejandro     |  29-06-2022   | Orion    |
 
@@ -19,7 +19,7 @@ Create a PR for suggest a new Topic [new](#)
 
 | Topic     | Speaker       |  Date         | Location | Link de Registro |  
 | ------------- |:-------------:| -------------:|--------- | ---------- |
-| Topic     | Antonnio      |  15-06-2022   | Orion    |  Privado | Schedule |
+| Topic     | Antonio      |  15-06-2022   | Orion    |  Privado | Schedule |
 | Topic         | Michel        |  22-06-2022   | Orion    | [Link](#) |
 | Topic      | Alejandro     |  29-06-2022   | Orion    | [Link](#) |
 
