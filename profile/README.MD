@@ -45,3 +45,4 @@ Create a PR for suggest a new Topic [new](#)
 ### Web application Firewall
 1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
 1. [Automations for AWS Firewall Manager](https://github.com/OrionCloudPractice/aws-firewall-manager-automations-for-aws-organizations)
+1. [Automation for AWS Web Application Firewall](https://github.com/OrionCloudPractice/waf-security-automations-from-aws)
