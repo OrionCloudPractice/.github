@@ -36,14 +36,10 @@ Create a PR for suggest a new Topic [new](#)
  
 ## Partner Delivery Programs Achieved
 
-1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
-1.  
-1.  
-
 ### Database Migration Service
 1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
 1. [AUTOMATION - Database Migration Service Deployment](https://github.com/OrionCloudPractice/quickstart-aws-dms-automation) 
-1.  
+
 
 
 ### Web application Firewall
