@@ -31,8 +31,8 @@ Create a PR for suggest a new Topic [new](#)
 
 1. [AWS Certified Solutions Architect - Associate exam](https://github.com/OrionCloudPractice/AWS-SAA-C02-Study-Guide)
 1. [AUTOMATION](#)
-    1.[Serverless Projects](https://github.com/OrionCloudPractice/quickstart-trek10-serverless-enterprise-cicd)
-    1.[Database Migration/Data Transformation Projects](https://github.com/OrionCloudPractice/quickstart-aws-dms-automation)
+    - [Serverless Projects](https://github.com/OrionCloudPractice/quickstart-trek10-serverless-enterprise-cicd)
+    - [Database Migration/Data Transformation Projects](https://github.com/OrionCloudPractice/quickstart-aws-dms-automation)
  
 ## Partner Delivery Programs Achieved
 
