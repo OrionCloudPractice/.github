@@ -11,6 +11,7 @@
 
 | Topic         | Speaker       |  Date         | Location | 
 | ------------- |:-------------:| -------------:|--------- |
+| Comunity Launching | MAP TEAM     |  29-06-2022   | Orion    |
 | Networking    | Antonio      |  15-06-2022   | Orion    |
 | Containers    | Michel        |  22-06-2022   | Orion    |
 | Migration     | Alejandro     |  29-06-2022   | Orion    |
